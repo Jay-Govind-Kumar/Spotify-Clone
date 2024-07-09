@@ -26,4 +26,4 @@ git clone https://github.com/Jay-Govind/Spotify-Clone.git
 |![2](<./assets/output2.png>)| 
 
 ## ⚖️ License 
-> License - [Click Me]()
+> License - [Click Me](https://github.com/Jay-Govind/Spotify-Clone/blob/7e8c6e478734d4da2a172a1cd58d592a7961d80f/LICENSE)
