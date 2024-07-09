@@ -1,5 +1,29 @@
-<h1 align="center">👋 Hi, I’m Jay Govind Kumar</h1>
-<h3 align="center">🌱 Do you want to see the output? Click me 👉<a href="https://jay-govind.github.io/Spotify-Clone/" target="_blank"><img width="250px" src="./assets/output.png"></a></h3><br><br>
-<ul>
-  <li><p>Developed at an beginner level, showcasing proficiency in front-end web development techniques.</p></li>
-</ul>
+# Spotify UI Clone
+
+<br>
+
+## Clone the repo in your PC 🧑‍💻
+> Run the below command in your terminal 
+```
+git clone https://github.com/Jay-Govind/Spotify-Clone.git
+```
+<br>
+
+> [👉 Click Me To Check Output](https://jay-govind.github.io/Spotify-Clone)
+
+<br>
+
+### Description
+> <ul>
+  <li>Developed at an beginner level, showcasing proficiency in front-end web development techniques.</li>
+  </ul>
+
+<br>
+
+## 📸 ScreenShots
+|![1](<./assets/output1.png>)|
+|-------------------------------|
+|![2](<./assets/output2.png>)| 
+
+## ⚖️ License 
+> License - [Click Me]()
